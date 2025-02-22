@@ -4,35 +4,37 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ezzagmoute+Hamza!;" />
 </h1>
 
-<h3 align="center">A passionate Fullstack Web Developer</h3>
+<h3 align="center">A passionate Fullstack Web Developer && Open-source contributor</h3>
 
 <br/>
 
 <div align="center">
-Open Source Contribution </br>
-I am a passionate open-source contributor, sharing and building innovative solutions. Check out my project here:  
-
-🔗 [My Open-Source Node.js Package](https://moroccan-regions-cities-package-demo.vercel.app/)
-
+  Open Source Contribution </br> </br>
+  🔗 <a href="https://moroccan-regions-cities-package-demo.vercel.app/">My Moroccan regions and cities Node Package</a> <br/><br/>
+</div>
  
-🔭 I’m currently working on **SaaS PROJECTS**
-
-💬 Ask me about **React js, Next.js, Node.js, Express js ...**
-
-📫 How to reach me **ezzagmoute.hamza@gmail.com**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:ezzagmoute.hamza@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/hamza-ezzagmoute-b12b5523b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://ezzagmoute-hamza-portfolio.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  <div align="center">
+      <a href="https://www.linkedin.com/in/hamza-ezzagmoute-b12b5523b/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+      </a>
+      <a href="https://www.instagram.com/ezzagmoute_codes/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+      </a>
+      <a href="https://wa.me/+212697669519?text=Hello%20Hamza%2C%20can%20you%20help%20me%3F" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+      </a>
+      <a href="https://www.facebook.com/profile.php?id=61572740845701" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+      </a>
+      <a href="mailto:ezzagmoute.hamza@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+      </a> 
+      <br/>  <br/>
+      <div>
+           <a href="https://ezzagmoute-hamza-portfolio.vercel.app/" target="_blank">
+             <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+           </a>
+      </div>
 </div>
 
  <hr/>
@@ -40,9 +42,10 @@ I am a passionate open-source contributor, sharing and building innovative solut
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,tailwind,git,github,gitlab" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,jest,cypress,aws,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,jquery,javascript,typescript,react,next,tailwind,bootstrap,git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,jest,cypress,aws,docker,vite,firebase,vercel,npm,postman,ubuntu" /><br>
 </div>
+
 
 <br/>
 
