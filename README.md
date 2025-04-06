@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Ezzagmoute-Hamza&label=Profile%20views&color=FF9B17&style=flat" alt="Ezzagmoute-Hamza" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ezzagmoute+Hamza!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FF9B17&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ezzagmoute+Hamza!;" />
 </h1>
 
 <h3 align="center">A passionate Fullstack Web Developer && Open-source contributor</h3>
