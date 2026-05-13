@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FF9B17&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ezzagmoute+Hamza!;" />
 </h1>
 
-<h3 align="center">A passionate Fullstack Web Developer && Open-source contributor</h3>
+<h3 align="center">A Freelancer Fullstack Web Developer | AI Integrator | Open-source contributor</h3>
 
 <br/>
 
